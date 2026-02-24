@@ -77,6 +77,8 @@ cd Knowledge-Back
 ./mvnw spring-boot:run
 ```
 
+- Swagger: http://localhost:8080/swagger-ui/index.html
+
 ---
 
 Executar o Front-End
